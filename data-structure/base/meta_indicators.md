@@ -1,7 +1,7 @@
 
-| OBJECT|TYPE |CREATE SQL  |EXAMPLE DATA|
+| OBJECT|TYPE |CODE  |EXAMPLE DATA|
 | -------------------------- | ------- |--|--|
-| meta_indicators |  TABLE | url here  |  |  
+| meta_indicators |  TABLE | [create sql](https://github.com/infojam/alfama/blob/main/data-structure/SQL/meta_indicators.sql)  |  |  
 
 ### description
 
