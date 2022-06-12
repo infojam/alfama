@@ -15,7 +15,7 @@ Holds the description and all meta data relating to an indicator. The values of 
 | description_short         | varchar    |||
 | description_long          | text       |||
 | polarity                   | varchar    |what is good? |eg. High is good (hig) needs renaming|
-| frequency                  | varchar    |How often is the data collected||
+| frequency                  | varchar    |How often is the data collected|eg. weekly, monthly, quarterly|
 | collection_method                  | varchar    |How is the data collected|manual, automatic, import|
 | range                      | varchar    |||
 | responsible_data          | varchar    |(R)ACI for data|eg. Head of service|
