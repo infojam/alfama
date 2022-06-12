@@ -17,7 +17,7 @@ Holds the description and all meta data relating to an indicator. The values of 
 | description_long          | text       |||
 | polarity                   | varchar    |||
 | frequency                  | varchar    |How often is the data collected||
-| collection_method                  | varchar    |How is the data collected||
+| collection_method                  | varchar    |How is the data collected|manual, automatic, import|
 | range                      | varchar    |||
 | responsible_data          | varchar    |(R)ACI for data|eg. Head of service|
 | accountable_data          | varchar    |R(A)CI for data||
