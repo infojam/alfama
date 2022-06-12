@@ -14,7 +14,7 @@ Holds the description and all meta data relating to an indicator. The values of 
 | name_long                 | varchar    ||eg .Total Missed Bin collections in the period|
 | description_short         | varchar    |||
 | description_long          | text       |||
-| polarity                   | varchar    |||
+| polarity                   | varchar    |what is good? |eg. High is good (hig)|
 | frequency                  | varchar    |How often is the data collected||
 | collection_method                  | varchar    |How is the data collected|manual, automatic, import|
 | range                      | varchar    |||
@@ -30,7 +30,7 @@ Holds the description and all meta data relating to an indicator. The values of 
 | accountable_collection    | varchar    |R(A)CI for collection||
 | consulted_collection      | varchar    |RA(C)I for collection||
 | informed_collection       | varchar    |RAC(I) for collection||
-| type                       | varchar    |||
+| type                       | varchar    ||eg. measure, target, comparitior|
 | data_type                 | varchar    ||int/varchar/percent etc|
 | ~~parent_indicator~~          | ~~int~~        ||now in relationship process|
 | ~~ref_area~~                  | int        ||not needed until ontological approach rolled out|
