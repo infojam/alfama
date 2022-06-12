@@ -4,8 +4,7 @@
 | meta_indicators |  TABLE | [create sql](https://github.com/infojam/alfama/blob/main/data-structure/SQL/meta_indicators.sql)  |  |  
 
 ### description
-Holds the description and all meta data relating to an indicator. The values of the indicators are held in data_indicators.
-
+Holds the description and all meta data relating to an indicator. The values of the indicators are held in data_indicators. Hierarchies are managed via groups.
 ### entities
 | COLUMN_NAME| DATA_TYPE| DESCRIPTION |EXAMPLE / NOTE
 | -------------------------- | ------- |--|--|
