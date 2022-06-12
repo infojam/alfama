@@ -14,7 +14,7 @@ Holds the description and all meta data relating to an indicator. The values of 
 | name_long                 | varchar    ||eg .Total Missed Bin collections in the period|
 | description_short         | varchar    |||
 | description_long          | text       |||
-| polarity                   | varchar    |what is good? |eg. High is good (hig)|
+| polarity                   | varchar    |what is good? |eg. High is good (hig) needs renaming|
 | frequency                  | varchar    |How often is the data collected||
 | collection_method                  | varchar    |How is the data collected|manual, automatic, import|
 | range                      | varchar    |||
