@@ -2,7 +2,7 @@
 | ----------- | ----------- | ---------- | ------- |
 | Player | String | n/a |  |
 | Login | date | n/a |  |
-| desire  | int | 0 - 10 |  |
+| desire  | int | 0-10 |  |
 | bedtime  | time | n/a |  |
 | uptime  | time | n/a |  |
 | sleepQuality | int | 0-5 |  |
@@ -22,3 +22,4 @@
 | overallSoreness  | int | 0-4 |  |
 | stress  | int | 0-4 |  |
 | IP address  | ip | n/a |  | 
+| sleepLength  | int | 0-24 |  | 
