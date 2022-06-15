@@ -21,3 +21,4 @@
 | UBack | int | 0-1|  |
 | overallSoreness  | int | 0-4 |  |
 | stress  | int | 0-4 |  |
+| IP address  | ip | n/a |  | 
