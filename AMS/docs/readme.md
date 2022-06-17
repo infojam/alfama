@@ -24,3 +24,4 @@
 | IP address  | ip | n/a |  | 
 | sleepLength  | int | 0-24 |  | 
 | freshness  | int | 1-5 |  | 
+| test | int | 1-5 |  | 
