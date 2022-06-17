@@ -23,3 +23,4 @@
 | stress  | int | 0-4 |  |
 | IP address  | ip | n/a |  | 
 | sleepLength  | int | 0-24 |  | 
+| freshness  | int | 1-5 |  | 
