@@ -3,6 +3,8 @@ let questions = [
         id:"8f99ee50-ef40-4e76-8ab7-4261927d0e25",
         title: 'Creativity & Innovation',
         title_short: "C&I",
+        detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"d071f920-df37-4786-be44-8d53d59ef661",
                 order:1,
@@ -76,6 +78,7 @@ let questions = [
         id:"4fd68ae3-ef30-457b-b7c8-4814dcc52509",
         title: 'Contacts & Relationships',
         title_short: "C&R",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"261f97d9-36ad-44e8-b9c0-325ce60f5fdf",
                 order:2,
@@ -157,6 +160,7 @@ let questions = [
         id:"ce257cdb-1947-44f4-8fe7-e6a8e8dc2268",
         title: 'Discretion',
         title_short: "DISC",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"9feb4943-e8a3-4fe6-8fa7-7766622a44c5",
                 order:3,
@@ -222,6 +226,7 @@ let questions = [
         id:"0da2935a-c6c2-41d9-9819-a20e34dd9890",
         title: 'Consequences',
         title_short: "CONS",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"cfc2ab0a-8092-4bd6-88f8-a67a1d547cce",
                 order:4,
@@ -279,6 +284,7 @@ let questions = [
         id:"25aa2d69-4461-4cef-b02f-87cf574420a5",
         title: 'Resources',
         title_short: "RESO",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"9601c773-e6d6-4ee1-8963-50112590b633",
                 order:5,
@@ -336,6 +342,7 @@ let questions = [
         id:"0694132b-b63d-4407-b7d6-6d1cb5d498cf",
         title: 'Working Demands',
         title_short: "WODE",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"f480d57f-8af8-455a-8ee0-59a60178e648",
                 order:6,
@@ -393,6 +400,7 @@ let questions = [
         id:"fde7b1a6-7abd-42e9-9267-4201d322bcf5",
         title: 'Physical Demands',
         title_short: "PHYD",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"b57ba1c8-822d-4df7-b697-77b09961c378",
                 order:7,
@@ -442,6 +450,7 @@ let questions = [
         id:"374b9347-70a9-4eb7-a9cf-a858e841a060",
         title: 'Working Conditions',
         title_short: "WOCO",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"3bb35a42-d904-4002-9283-a8a4b9642b69",
                 order:8,
@@ -491,6 +500,7 @@ let questions = [
         id:"26f01318-f6a4-48e5-8ebf-03d07e80a6fd",
         title: 'Working Context',
         title_short: "WOCT",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"4f7b413d-a9b9-4d15-b46d-68f586390cef",
                 order:9,
@@ -540,6 +550,7 @@ let questions = [
         id:"bf4c5620-5876-469f-a112-37e2aa894404",
         title: 'Knowledge & Skills',
         title_short: "K&SK",
+        detail_text:"DEFAULT",
         questions:[
             {   id:"ff96f76a-ab7d-4f1c-a9b7-bd9f99a0546e",
                 order:10,
@@ -618,3 +629,5 @@ let questions = [
 
     },
 ]
+
+export { questions };
