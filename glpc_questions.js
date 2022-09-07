@@ -1,5 +1,5 @@
 let questions = [
-    {
+    { 
         id:"8f99ee50-ef40-4e76-8ab7-4261927d0e25",
         title: 'Creativity & Innovation',
         title_short: "C&I",
@@ -79,6 +79,7 @@ let questions = [
         title: 'Contacts & Relationships',
         title_short: "C&R",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"261f97d9-36ad-44e8-b9c0-325ce60f5fdf",
                 order:2,
@@ -161,6 +162,7 @@ let questions = [
         title: 'Discretion',
         title_short: "DISC",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"9feb4943-e8a3-4fe6-8fa7-7766622a44c5",
                 order:3,
@@ -227,6 +229,7 @@ let questions = [
         title: 'Consequences',
         title_short: "CONS",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"cfc2ab0a-8092-4bd6-88f8-a67a1d547cce",
                 order:4,
@@ -285,6 +288,7 @@ let questions = [
         title: 'Resources',
         title_short: "RESO",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"9601c773-e6d6-4ee1-8963-50112590b633",
                 order:5,
@@ -343,6 +347,7 @@ let questions = [
         title: 'Working Demands',
         title_short: "WODE",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"f480d57f-8af8-455a-8ee0-59a60178e648",
                 order:6,
@@ -401,6 +406,7 @@ let questions = [
         title: 'Physical Demands',
         title_short: "PHYD",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"b57ba1c8-822d-4df7-b697-77b09961c378",
                 order:7,
@@ -451,6 +457,7 @@ let questions = [
         title: 'Working Conditions',
         title_short: "WOCO",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"3bb35a42-d904-4002-9283-a8a4b9642b69",
                 order:8,
@@ -501,6 +508,7 @@ let questions = [
         title: 'Working Context',
         title_short: "WOCT",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"4f7b413d-a9b9-4d15-b46d-68f586390cef",
                 order:9,
@@ -551,6 +559,7 @@ let questions = [
         title: 'Knowledge & Skills',
         title_short: "K&SK",
         detail_text:"DEFAULT",
+        section_value:"",
         questions:[
             {   id:"ff96f76a-ab7d-4f1c-a9b7-bd9f99a0546e",
                 order:10,
