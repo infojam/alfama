@@ -476,7 +476,7 @@ let questions = [
                     {
                         order:2,
                         text:"2",
-                        value:1,
+                        value:2,
                         score:12,
                         description:"Work includes significant elements of inside or outside work involving some exposure to moderate noise, heat, cold, disagreeable or difficult surroundings/conditions.",
                         selected:false
